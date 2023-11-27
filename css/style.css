@@ -15,24 +15,25 @@ body {
     background: linear-gradient(burlywood,beige);
 }
 .container {
+    text-align: center;
     border-radius: 10px;
     padding: 30px;
     background: linear-gradient(beige 70%, burlywood 30%);
 }
 button {
-    margin-left: 46px;
     border-radius: 10px;
     padding: 5px;
+    margin-top: 10px;
 
 }
 input {
   padding: 5px;
-  width: auto;  
+  width: 180px;  
   border-radius: 5px;
 
 }
 .output{
-    padding: 20px;
+    padding: 25px;
     margin-top: 10px;
     border-radius: 10px;
     font-size: 0.8rem;
